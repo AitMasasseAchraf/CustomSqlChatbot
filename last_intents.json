@@ -1,0 +1,109 @@
+
+  
+
+  {
+    "categories": [
+      {
+        "name": "salutation_cv",
+        "patterns": [
+          [ "Comment vas-tu ?" , "Bonsoir ca va ?" , "Bonjour comment vas tu?" , "Coucou tout va bien?" ,"Salut, ça va ?",
+          "Coucou, comment tu te sens ?",
+          "Bonjour, comment te portes-tu ?",
+          "Salut, comment ça va de ton côté ?",
+          "Bonjour, tu passes une bonne journée ?",
+          "Coucou, comment se déroule ta journée ?",
+          "Salut, ça roule pour toi ?",
+          "Bonjour, comment te sens-tu  ?",
+"Bon matin, tu vas bien ?",
+"Bonsoir, ça va bien ?",
+"Bonsoir, tu te sens bien ?",
+"Bonjour, comment te sens-tu ?"
+          ]
+       
+        ],
+        "responses": [
+         ["Ça va bien merci, en quoi puis-je vous aider ?",
+         "Tout va bien merci, comment puis-je vous assister ?",
+         "Je me porte bien merci, que puis-je faire pour vous ?",
+         "Je vais bien merci, de quelle manière puis-je vous être utile ?",
+         "Ça va, merci. Comment puis-je vous aider ?",
+         "Tout va bien, merci. En quoi puis-je vous assister ?",
+         "Je vais bien merci, que puis-je faire pour vous aujourd'hui ?"
+        ]
+        ]
+      },
+      {
+        "name":"salutation_simple",
+        "patterns":[[
+          "salut" ,"bonjour","bonsoir","coucou" ,"bon matin" , "bon journée" ,"bon fin de semaine"
+        ]
+    ],
+        "responses":["Bonjour, que puis-je faire pour vous aujourd'hui ?",
+        "Salut, comment puis-je vous assister ?",
+        "Bonjour, en quoi puis-je vous être utile ?",
+        "Salut, comment puis-je vous aider ?",
+        "Bonjour, que puis-je faire pour rendre votre journée meilleure ?",
+        "Salut, puis-je vous aider avec quelque chose ?",
+        "Bonjour, avez-vous besoin d'aide ?",
+        "Salut, puis-je vous offrir mon assistance ?",
+        "Bonjour, comment puis-je faciliter vos tâches ?",
+        "Salut, quelle est votre demande ?"]
+       
+      },
+      {
+        "name":"remerciement",
+        "patterns":[["merci",
+          "Merci beaucoup",
+          "Merci pour cela",
+          "Merci infiniment",
+          "Merci énormément",
+          "Je vous remercie",
+          "Un grand merci",
+          "Merci bien",
+          "Je vous suis reconnaissant(e)",
+          "Merci pour tout",
+          "Merci de votre aide",
+          "Merci pour votre gentillesse"
+          
+        ]],
+        "responses":[[
+          "De rien !",
+"Avec plaisir !",
+"Il n'y a pas de quoi !",
+"C'était un plaisir !",
+"Je suis heureux(se) de pouvoir vous aider !",
+"Vous êtes bienvenu(e) !",
+"Ce n'était rien !",
+"Je suis là pour vous !",
+"Vous pouvez toujours compter sur moi !",
+"Vous êtes vraiment généreux(se) !",
+"C'était un plaisir de vous aider !"
+        ]]
+      },
+     
+      {
+        "name": "reconnaissance",
+        "patterns": [
+          [ "Enchantée.", "content de te connaitre.", "Un plaisir de te connaitre.","Ravi de faire ta connaissance.",
+          "Enchanté de te rencontrer.",
+          "Heureux de te rencontrer.",
+          "C'est génial de te rencontrer.",
+          "C'est un bonheur de te connaître.",
+          "C'est super de te rencontrer.",
+          "C'est un honneur de te connaître.",
+          "C'est formidable de te rencontrer.",
+          "C'est un privilège de te connaître."
+          
+        ]
+        ],
+        "responses": [
+          [  "Enchantée.", "Merci. Moi aussi.", "Merci, toi aussi.","Enchanté de te rencontrer.",
+          "je suis aussi Content de te connaître.",
+          "je suis aussi Heureux de te rencontrer.",
+          "C'est cool de te rencontrer."
+          ]
+        ]
+      }
+    ]
+  }
+  

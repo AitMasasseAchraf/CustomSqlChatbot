@@ -1,0 +1,139 @@
+,names,responses
+0,salutation_cv,"Ça va bien merci, en quoi puis-je vous aider ?"
+1,salutation_cv,"Tout va bien merci, comment puis-je vous assister ?"
+2,salutation_cv,"Je me porte bien merci, que puis-je faire pour vous ?"
+3,salutation_cv,"Je vais bien merci, de quelle manière puis-je vous être utile ?"
+4,salutation_cv,"Ça va, merci. Comment puis-je vous aider ?"
+5,salutation_cv,"Tout va bien, merci. En quoi puis-je vous assister ?"
+6,salutation_cv,"Je vais bien merci, que puis-je faire pour vous aujourd'hui ?"
+7,salutation_cv,"Ça va bien, merci. Comment puis-je vous être utile ?"
+8,salutation_cv,"Je me porte bien merci, comment puis-je vous assister aujourd'hui ?"
+9,salutation_cv,"Tout va bien merci, de quelle manière puis-je vous aider ?"
+10,salutation_cv,"Je vais bien, merci. À quoi puis-je vous servir ?"
+11,salutation_cv,"Ça va bien merci, que puis-je faire pour vous aujourd'hui ?"
+12,salutation_cv,"Je me porte bien merci, en quoi puis-je vous être utile ?"
+13,salutation_cv,"Tout va bien merci, comment puis-je vous aider ?"
+14,salutation_cv,"Ça va, merci. À quoi puis-je vous servir ?"
+15,salutation_cv,"Je vais bien merci, de quelle manière puis-je vous assister ?"
+16,salutation_cv,"Tout va bien, merci. Que puis-je faire pour vous ?"
+17,salutation_cv,"Je me porte bien merci, en quoi puis-je vous aider ?"
+18,salutation_cv,"Ça va bien, merci. Comment puis-je vous assister ?"
+19,salutation_cv,"Je vais bien merci, que puis-je faire pour vous aider ?"
+20,salutation_cv,"Ça va, merci. À quoi puis-je vous être utile ?"
+21,salutation_cv,"Tout va bien merci, de quelle manière puis-je vous servir ?"
+22,salutation_cv,"Je me porte bien merci, en quoi puis-je vous assister ?"
+23,salutation_cv,"Ça va bien, merci. Que puis-je faire pour vous aujourd'hui ?"
+24,salutation_cv,"Je vais bien merci, comment puis-je vous aider ?"
+25,salutation_cv,"Tout va bien merci, à quoi puis-je vous servir ?"
+26,salutation_cv,"Ça va, merci. De quelle manière puis-je vous aider ?"
+27,salutation_cv,"Je me porte bien merci, que puis-je faire pour vous ?"
+28,salutation_cv,"Ça va bien, merci. En quoi puis-je vous être utile ?"
+29,salutation_cv,"Je vais bien merci, comment puis-je vous servir ?"
+30,salutation_cv,"Tout va bien merci, de quelle manière puis-je vous aider ?"
+31,salutation_cv,"Ça va, merci. Que puis-je faire pour vous aider ?"
+32,salutation_cv,"Je me porte bien merci, à quoi puis-je vous assister ?"
+33,salutation_cv,"Ça va bien, merci. Comment puis-je vous servir ?"
+34,salutation_cv,"Je vais bien merci, en quoi puis-je vous aider ?"
+35,salutation_cv,"Tout va bien merci, à quoi puis-je vous servir aujourd'hui ?"
+36,salutation_cv,"Ça va, merci. Que puis-je faire pour vous aujourd'hui ?"
+37,salutation_cv,"Je me porte bien merci, comment puis-je vous aider ?"
+38,salutation_cv,"Je vais bien merci, de quelle manière puis-je vous assister ?"
+39,salutation_cv,"Tout va bien merci, en quoi puis-je vous être utile ?"
+40,salutation_cv,"Ça va, merci. À quoi puis-je vous servir aujourd'hui ?"
+41,salutation_cv,"Je me porte bien merci, que puis-je faire pour vous aujourd'hui ?"
+42,salutation_cv,"Ça va bien, merci. Comment puis-je vous assister aujourd'hui ?"
+43,salutation_cv,"Je vais bien merci, de quelle manière puis-je vous servir ?"
+44,salutation_cv,"Tout va bien merci, à quoi puis-je vous aider aujourd'hui ?"
+45,salutation_cv,"Ça va, merci. Que puis-je faire pour vous aider aujourd'hui ?"
+46,salutation_cv,"Je me porte bien merci, comment puis-je vous aider aujourd'hui ?"
+47,salutation_cv,"Je vais bien merci, en quoi puis-je vous assister aujourd'hui ?"
+48,salutation_cv,"Tout va bien merci, de quelle manière puis-je vous aider aujourd'hui ?"
+49,salutation_cv,"Ça va, merci. À quoi puis-je vous être utile aujourd'hui ?"
+50,salutation_simple,"Bonjour, que puis-je faire pour vous aujourd'hui ?"
+51,remerciement,De rien !
+52,remerciement,Avec plaisir !
+53,remerciement,Il n'y a pas de quoi !
+54,remerciement,C'était un plaisir !
+55,remerciement,Je suis heureux(se) de pouvoir vous aider !
+56,remerciement,Vous êtes bienvenu(e) !
+57,remerciement,C'est vraiment gentil de votre part !
+58,remerciement,Vous êtes adorable !
+59,remerciement,Je suis touché(e) par votre reconnaissance !
+60,remerciement,Ce n'est rien du tout !
+61,remerciement,Je vous assure que c'était un plaisir !
+62,remerciement,N'hésitez pas si vous avez besoin d'autre chose !
+63,remerciement,Vous pouvez compter sur moi !
+64,remerciement,Je suis là pour ça !
+65,remerciement,C'était la moindre des choses !
+66,remerciement,C'est moi qui vous remercie !
+67,remerciement,Je suis là pour vous aider !
+68,remerciement,N'hésitez pas à demander si vous avez besoin de quelque chose d'autre !
+69,remerciement,C'est toujours un plaisir !
+70,remerciement,Vous êtes vraiment gentil(le) !
+71,remerciement,Vous êtes le(la) bienvenu(e) !
+72,remerciement,Je vous en prie !
+73,remerciement,Il n'y a pas de quoi !
+74,remerciement,Pas de souci !
+75,remerciement,C'est vraiment touchant de votre part !
+76,remerciement,Vous êtes formidable !
+77,remerciement,Je suis heureux(se) de pouvoir vous aider !
+78,remerciement,Je suis là pour ça !
+79,remerciement,Vous êtes trop aimable !
+80,remerciement,Vous êtes le(la) bienvenu(e) !
+81,remerciement,Ce n'était rien !
+82,remerciement,Je suis là pour vous !
+83,remerciement,Vous pouvez toujours compter sur moi !
+84,remerciement,Vous êtes vraiment généreux(se) !
+85,remerciement,Je suis là pour ça !
+86,remerciement,Vous êtes le(la) bienvenu(e) !
+87,remerciement,C'est un plaisir de vous aider !
+88,remerciement,Vous êtes très gentil(le) !
+89,remerciement,Vous pouvez toujours compter sur moi !
+90,remerciement,C'est vraiment adorable de votre part !
+91,remerciement,Vous êtes très aimable !
+92,remerciement,Je suis là pour ça !
+93,remerciement,Je suis là pour vous !
+94,remerciement,Vous êtes trop gentil(le) !
+95,remerciement,C'était un plaisir de vous aider !
+96,reconnaissance,Enchantée.
+97,reconnaissance,Merci. Moi aussi.
+98,reconnaissance,"Merci, toi aussi."
+99,reconnaissance,Enchanté de te rencontrer.
+100,reconnaissance,Content de te connaître.
+101,reconnaissance,Heureux de te rencontrer.
+102,reconnaissance,C'est un plaisir de te connaître.
+103,reconnaissance,C'est génial de te rencontrer.
+104,reconnaissance,C'est un bonheur de te connaître.
+105,reconnaissance,C'est super de te rencontrer.
+106,reconnaissance,C'est un honneur de te connaître.
+107,reconnaissance,C'est formidable de te rencontrer.
+108,reconnaissance,C'est un privilège de te connaître.
+109,reconnaissance,C'est un plaisir de te rencontrer.
+110,reconnaissance,C'est fantastique de te connaître.
+111,reconnaissance,C'est un bonheur de te rencontrer.
+112,reconnaissance,C'est un plaisir de te découvrir.
+113,reconnaissance,C'est chouette de te rencontrer.
+114,reconnaissance,C'est un plaisir de t'accueillir.
+115,reconnaissance,C'est agréable de te connaître.
+116,reconnaissance,C'est sympathique de te rencontrer.
+117,reconnaissance,C'est un plaisir de t'accueillir.
+118,reconnaissance,C'est formidable de te connaître.
+119,reconnaissance,C'est un honneur de te rencontrer.
+120,reconnaissance,C'est un plaisir de te saluer.
+121,reconnaissance,C'est cool de te connaître.
+122,reconnaissance,C'est un bonheur de t'avoir rencontré.
+123,reconnaissance,C'est agréable de te rencontrer.
+124,reconnaissance,C'est toujours un plaisir de te rencontrer.
+125,reconnaissance,C'est fantastique de te rencontrer.
+126,reconnaissance,C'est un plaisir de te voir.
+127,reconnaissance,C'est super de te connaître.
+128,reconnaissance,C'est chouette de te connaître.
+129,reconnaissance,C'est un plaisir de te retrouver.
+130,reconnaissance,C'est toujours un plaisir de te voir.
+131,reconnaissance,C'est formidable de te saluer.
+132,reconnaissance,C'est sympa de te connaître.
+133,reconnaissance,C'est un plaisir de te recevoir.
+134,reconnaissance,C'est fantastique de te découvrir.
+135,reconnaissance,C'est cool de te rencontrer.
+136,reconnaissance,C'est un bonheur de te saluer.
+137,reconnaissance,C'est un plaisir de te rencontrer.
